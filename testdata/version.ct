@@ -1,0 +1,20 @@
+$ cmd --help
+hello
+
+Usage:
+   [flags]
+
+Flags:
+  -h, --help      help for this command
+  -v, --version   version for this command
+
+# This should be 'version 1.0.0'
+$ cmd --version
+hello
+
+Usage:
+   [flags]
+
+Flags:
+  -h, --help      help for this command
+  -v, --version   version for this command
